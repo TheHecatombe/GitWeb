@@ -1,2 +1,1 @@
-Este cambio no deberá guardarse.
-Tendrá que removerse.
+Ya no se remueve este archivo.
